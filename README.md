@@ -2,7 +2,6 @@ Video walkthrough : https://drive.google.com/file/d/1dljfcnRKxbjUI9a4zit59wesvIO
 
 Everyone is starting a personal branding agency.
 I built one — with AI.
-The Problem
 
 Personal branding agencies are everywhere.
 But behind the scenes, most of them struggle with the same problems:
