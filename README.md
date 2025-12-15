@@ -5,6 +5,7 @@ I built one — with AI.
 
 Personal branding agencies are everywhere.
 But behind the scenes, most of them struggle with the same problems:
+
 Ideas are messy and unstructured
 Every platform needs a different writing style
 Content sounds robotic when AI is used
@@ -17,7 +18,7 @@ They lack clarity, structure, and consistency.
 Agency.AI was built to solve this exact gap.
 
 Instead of asking users to write perfect prompts,
-Agency.AI lets them start the way humans actually think 
+Agency.AI lets them start the way humans actually think
 with rough thoughts and half-formed ideas.
 
 From there, the system shapes those ideas into:
@@ -83,5 +84,5 @@ adapt it for your own ideas
 
 Agency.AI isn’t about replacing writers.
 
-It’s about helping people say what they already know 
+It’s about helping people say what they already know
 more clearly, more consistently, and in their own voice.
